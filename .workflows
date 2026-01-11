@@ -1,0 +1,37 @@
+name: Laravel CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+      - feature/*
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  laravel-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install Composer dependencies
+        run: composer install --no-progress --prefer-dist --optimize-autoloader
+
+      - name: Copy .env
+        run: cp .env.example .env
+
+      - name: Generate App Key
+        run: php artisan key:generate
+
+      - name: Run Laravel Tests
+        run: php artisan test
