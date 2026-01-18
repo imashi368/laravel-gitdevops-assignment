@@ -1,6 +1,7 @@
+
 # Advanced Git & DevOps Team Collaboration – Laravel Frontend Project
 
-[![StackHawk](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml/badge.svg?branch=develop&event=merge_group)](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml)
+[![StackHawk](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml)
 ##  Team Members
 
 | Name | Student ID | Role |
