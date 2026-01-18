@@ -1,13 +1,12 @@
 # Advanced Git & DevOps Team Collaboration – Laravel Frontend Project
 
-[![Build Status](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml/badge.svg?branch=develop&event=merge_group)](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml)
-
+[![StackHawk](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml/badge.svg?branch=develop&event=merge_group)](https://github.com/imashi368/laravel-gitdevops-assignment/actions/workflows/stackhawk.yml)
 ##  Team Members
 
 | Name | Student ID | Role |
 |-----|------------|------|
 | C.P.Imashi Fernando | ITBIN-2313-0033| Frontend Developer |
-|W.J.Abisha  | ITbin-2313-0033 | Backend Developer |
+|W.J.Abisha  | ITBIN-2313-0033 | Backend Developer |
 
 
 ##  Role Assignments
