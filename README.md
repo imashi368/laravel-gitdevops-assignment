@@ -6,7 +6,7 @@
 | Name | Student ID | Role |
 |-----|------------|------|
 | C.P.Imashi Fernando | ITBIN-2313-0033| Frontend Developer |
-|W.J.Abisha  | ITBIN-2313-0033 | Backend Developer |
+|W.J.Abisha  | ITBIN-2313-0003 | Backend Developer |
 
 
 ##  Role Assignments
