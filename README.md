@@ -15,7 +15,7 @@
 - DevOps Engineer: CI/CD pipeline and deployment
 
 ##  Live Deployment
-https://laravel-gitdevops-assignment.onrender.com
+https://laravel-project-1-l5yh.onrender.com
 
 ##  Individual Contributions
 
